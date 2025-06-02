@@ -22,7 +22,7 @@ The Mac Llyr clan roams around the coast, but frequently returns to Nidoras - wh
 
 ## Lady Aledaleon
 
-![Lady Aladeleon](<images/characters/Lady Aledaleon.png> =200x)
+![Lady Aladeleon](<images/characters/Lady-Aledaleon.png> =200x)
 
 Lady Aladeleon is the mother of Gwyddion and Astor.  She serves as a fortune teller (mostly lies) to travellers.  She can be found cooking for other members of the camp, stews, soups, and sweet treats for all.
 
@@ -79,7 +79,7 @@ Buttercup: 42 y/o satyr. Buttercup is more often than not on the road, travellin
 
 ## Angela Hawthorne
 
-![Angela Hawthorne](<images/characters/Angela Hawythorne.png> =200x)
+![Angela Hawthorne](<images/characters/Angela-Hawythorne.png> =200x)
 
 Angela Hawthorne would be your criminal contact in Nidoras
 
