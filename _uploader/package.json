@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "rimraf ./build && npm run compile && npm run upload",
+    "compile": "node compile.js",
+    "upload": "node upload.js"
+  },
+  "dependencies": {
+    "marked": "^15.0.12",
+    "node": "^22.16.0",
+    "rimraf": "^6.0.1"
+  }
+}
